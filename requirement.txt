@@ -1,0 +1,29 @@
+01.Learn Python
+- Basic Python Tutorials :https://www.youtube.com/watch?v=picCusmKDs0&list=PLwvrYc43l1MzSBvslCMVZGtLLaZTq3VTG&index=11
+
+- Depth Python Tutorials: https://www.youtube.com/watch?v=KOdfpbnWLVo&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-
+
+- Python for Devops : https://www.youtube.com/watch?v=gOOYl8I_G7c&list=PLckUzKjgYDgaMCzGIvdcyOlcUTx1sBBtR
+
+- Data Science :
+
+02.Lunix Comments
+- Redhat :  
+
+- PostgreSQL : https://www.youtube.com/watch?v=XQ_6G0iCyMQ&list=PLwvrYc43l1MxAEOI_KwGe8l42uJxMoKeS
+
+- SQL : https://www.youtube.com/watch?v=nWyyDHhTxYU&list=PLi01XoE8jYojRqM4qGBF1U90Ee1Ecb5tt&index=2
+
+- Oracle : 
+
+03.Docker
+
+04.Kubernet : https://www.youtube.com/@amigoscode/playlists
+
+05.Jerkings
+
+06.AWS / Asure / Google Cloud
+
+07.Terraform
+
+08.Ansible

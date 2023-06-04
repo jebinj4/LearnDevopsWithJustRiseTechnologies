@@ -2,28 +2,41 @@
 - Basic Python Tutorials :https://www.youtube.com/watch?v=picCusmKDs0&list=PLwvrYc43l1MzSBvslCMVZGtLLaZTq3VTG&index=11
 
 - Depth Python Tutorials: https://www.youtube.com/watch?v=KOdfpbnWLVo&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-
+Or
+- Depth Python : https://www.youtube.com/watch?v=SbQAAuom-GA&list=PL4cUxeGkcC9idu6GZ8EU_5B6WpKTdYZbK&index=5
 
 - Python for Devops : https://www.youtube.com/watch?v=gOOYl8I_G7c&list=PLckUzKjgYDgaMCzGIvdcyOlcUTx1sBBtR
+- Devops with Python Website : https://realpython.com/learning-paths/python-devops/
 
 - Data Science :
 
 02.Lunix Comments
-- Redhat :  
+- Redhat : 
+    - Rethat: https://developers.redhat.com/products/rhel/getting-started?success=true&tcWhenSigned=January+1%2C+1970&tcWhenEnds=January+1%2C+1970&tcEndsIn=0&tcDuration=365&tcDownloadFileName=rhel-9.2-x86_64-dvd.iso&tcRedirect=5000&tcSrcLink=https%3A%2F%2Fdevelopers.redhat.com%2Fcontent-gateway%2Fcontent%2Forigin%2Ffiles%2Fsha256%2Fa1%2Fa18bf014e2cb5b6b9cee3ea09ccfd7bc2a84e68e09487bb119a98aa0e3563ac2%2Frhel-9.2-x86_64-dvd.iso&p=Product%3A+Red+Hat+Enterprise+Linux&pv=9.2&tcDownloadURL=https%3A%2F%2Faccess.cdn.redhat.com%2Fcontent%2Forigin%2Ffiles%2Fsha256%2Fa1%2Fa18bf014e2cb5b6b9cee3ea09ccfd7bc2a84e68e09487bb119a98aa0e3563ac2%2Frhel-9.2-x86_64-dvd.iso%3F_auth_%3D1685218801_5817a0d6c284cdbf836b97449b4b660a
+    - Skill share: https://www.skillshare.com/en/classes/Complete-Linux-Training-Course-to-Get-Your-Dream-IT-Job/626081699/projects?via=search-layout-grid
 
 - PostgreSQL : https://www.youtube.com/watch?v=XQ_6G0iCyMQ&list=PLwvrYc43l1MxAEOI_KwGe8l42uJxMoKeS
 
 - SQL : https://www.youtube.com/watch?v=nWyyDHhTxYU&list=PLi01XoE8jYojRqM4qGBF1U90Ee1Ecb5tt&index=2
 
 - Oracle : 
-
+    -Full oracle : https://www.linkedin.com/learning/instructors/oracle-university
 03.Docker
 
 04.Kubernet : https://www.youtube.com/@amigoscode/playlists
+-IBM Course: https://www.ibm.com/cloud/kubernetes-service/kubernetes-tutorials?utm_medium=OSocial&utm_source=Youtube&utm_content=000023UA&utm_term=10010608&utm_id=YTCard-101-What-is-OpenShift-Free-Kubernetes-Interactive-Tutorials-IBM-CloudLabs-homepage&cm_mmc=OSocial_Youtube-_-Cloud+and+Data+Platform_SFT+Cloud+Platform+Digital-_-WW_WW-_-YTCard-101-What-is-OpenShift-Free-Kubernetes-Interactive-Tutorials-IBM-CloudLabs-homepage&cm_mmca1=000023UA&cm_mmca2=10010608
+
 
 05.Jerkings
 
-06.AWS / Asure / Google Cloud
+06.AWS / Asure / Google Cloud 
+-AWS : https://www.linkedin.com/learning/topics/aws-cloud-practitioner?entityType=LEARNING_PATH~COURSE
+-Asure : AZ900 Certification : https://www.linkedin.com/learning/paths/prepare-for-the-microsoft-azure-fundamentals-az-900-certification-exam
 
-07.Terraform
+
+07.Terraform : https://www.skillshare.com/en/classes/Terraform-and-AWS-for-Website-Hosting/1331324052?via=search-layout-grid
 
 08.Ansible
+
+09.CI/CD Pipeline with AWS :https://www.skillshare.com/en/classes/Static-Website-Hosting-on-AWS-CICD-Pipeline-DevOps/1164505204?via=search-layout-grid
+CI/CD Pipelinewith Azure : https://www.skillshare.com/en/classes/Creating-Your-First-CICD-Pipeline-With-Azure-DevOps/701578588/classroom/discussions

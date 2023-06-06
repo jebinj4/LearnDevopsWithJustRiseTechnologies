@@ -1,4 +1,5 @@
 01.Learn Python
+-create PDF Api : https://www.stechies.com/creating-pdf-invoices-python-ptext/ 
 - Basic Python Tutorials :https://www.youtube.com/watch?v=picCusmKDs0&list=PLwvrYc43l1MzSBvslCMVZGtLLaZTq3VTG&index=11
 
 - Depth Python Tutorials: https://www.youtube.com/watch?v=KOdfpbnWLVo&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-
@@ -21,6 +22,12 @@ Or
 
 - Oracle : 
     -Full oracle : https://www.linkedin.com/learning/instructors/oracle-university
+    -Oracle Interview Qstions: https://www.youtube.com/watch?v=40VYT0cMHSs
+    -Performance turning: https://www.youtube.com/watch?v=YUWnhIRmYmU 
+    -Performance turning : https://www.youtube.com/watch?v=sC3vmAKQXYI 
+    - Oracle Interview Qstions: https://www.stechies.com/oracle-interview-questions/
+
+
 03.Docker
 
 04.Kubernet : https://www.youtube.com/@amigoscode/playlists
@@ -40,3 +47,6 @@ Or
 
 09.CI/CD Pipeline with AWS :https://www.skillshare.com/en/classes/Static-Website-Hosting-on-AWS-CICD-Pipeline-DevOps/1164505204?via=search-layout-grid
 CI/CD Pipelinewith Azure : https://www.skillshare.com/en/classes/Creating-Your-First-CICD-Pipeline-With-Azure-DevOps/701578588/classroom/discussions
+
+
+- Raspeberry pi network : https://www.raspberrypi.com/documentation/computers/configuration.html#configuring-networking

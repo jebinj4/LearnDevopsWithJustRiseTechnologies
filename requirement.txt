@@ -10,7 +10,7 @@ Or
 - Devops with Python Website : https://realpython.com/learning-paths/python-devops/
 
 - Data Science :
-
+React JS : https://www.youtube.com/watch?v=Uv7cKlZFXU8
 02.Lunix Comments
 - Redhat : 
     - Rethat: https://developers.redhat.com/products/rhel/getting-started?success=true&tcWhenSigned=January+1%2C+1970&tcWhenEnds=January+1%2C+1970&tcEndsIn=0&tcDuration=365&tcDownloadFileName=rhel-9.2-x86_64-dvd.iso&tcRedirect=5000&tcSrcLink=https%3A%2F%2Fdevelopers.redhat.com%2Fcontent-gateway%2Fcontent%2Forigin%2Ffiles%2Fsha256%2Fa1%2Fa18bf014e2cb5b6b9cee3ea09ccfd7bc2a84e68e09487bb119a98aa0e3563ac2%2Frhel-9.2-x86_64-dvd.iso&p=Product%3A+Red+Hat+Enterprise+Linux&pv=9.2&tcDownloadURL=https%3A%2F%2Faccess.cdn.redhat.com%2Fcontent%2Forigin%2Ffiles%2Fsha256%2Fa1%2Fa18bf014e2cb5b6b9cee3ea09ccfd7bc2a84e68e09487bb119a98aa0e3563ac2%2Frhel-9.2-x86_64-dvd.iso%3F_auth_%3D1685218801_5817a0d6c284cdbf836b97449b4b660a

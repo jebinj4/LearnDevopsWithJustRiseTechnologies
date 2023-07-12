@@ -23,10 +23,15 @@ React JS : https://www.youtube.com/watch?v=Uv7cKlZFXU8
 - Oracle : 
     -Full oracle : https://www.linkedin.com/learning/instructors/oracle-university
     -Oracle Interview Qstions: https://www.youtube.com/watch?v=40VYT0cMHSs
-    -Performance turning: https://www.youtube.com/watch?v=YUWnhIRmYmU 
-    -Performance turning : https://www.youtube.com/watch?v=sC3vmAKQXYI 
-    - Oracle Interview Qstions: https://www.stechies.com/oracle-interview-questions/
+    -Performance turning -Super shot : https://www.youtube.com/watch?v=YUWnhIRmYmU 
+    -Performance turning-Explain Plan : https://www.youtube.com/watch?v=sC3vmAKQXYI 
+        - More details : https://www.youtube.com/watch?v=3SHQMuxiqL4
+    -Performance turning(Long) : https://www.youtube.com/watch?v=L6ypcJlTZeM
 
+    - Oracle Interview Qstions: https://www.stechies.com/oracle-interview-questions/
+    - Oracle with Python : https://realpython.com/data-engineer-interview-questions-python/
+
+- Oracle DBA Genesis: https://www.youtube.com/watch?v=J5bZqz83Q34&list=RDCMUCUHHRiLeH7sO46GJBRGweag
 
 #testing
 
